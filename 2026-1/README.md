@@ -22,7 +22,7 @@
 | Rafaela Cavalheiro| [@c-rafaela](https://github.com/c-rafaela) |
 | Geovanna Ciriaco | [@geovannaciriaco17-cell](https://github.com/geovannaciriaco17-cell) |
 | Giula Gentil  | [@giuliagentil](https://github.com/giuliagentil) |
-| Isabela | [@usuario](https://github.com/) |
+| Isabela Erminia |  [@isabelaerminia](https://github.com/isabelaerminia) |
 
 
 ---
