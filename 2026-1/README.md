@@ -18,11 +18,11 @@
 
 | Poliana da Silva  | [@eupoliana](https://github.com/eupoliana) |
 | :--- | :--- |
-| Yara Torres | [@orresyara](https://github.com/torresyara)  |
+| Yara Torres | [@torresyara](https://github.com/torresyara)  |
 | Rafaela Cavalheiro| [@c-rafaela](https://github.com/c-rafaela) |
 | Geovanna Ciriaco | [@geovannaciriaco17-cell](https://github.com/geovannaciriaco17-cell) |
 | Giula Gentil  | [@giuliagentil](https://github.com/giuliagentil) |
-| Isabela Erminia |  [@isabelaerminia](https://github.com/isabelaerminia) |
+| Isabela Erminia |[@isabelaerminia] (https://github.com/isabelaerminia) |
 
 
 ---
