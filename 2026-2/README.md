@@ -3,7 +3,7 @@
 
 ---
 
-## 👨‍🏫 Informações do Curso e Disciplinas
+## Informações do Curso e Disciplinas
 
 * **Curso:** Curso Superior de Tecnologia em Análise e Desenvolvimento de Sistemas (ADS)
 * **Professor Responsável:** Prof. João Luís Cardoso de Moraes (Projeto Integrador ADS II - 30h)
@@ -17,12 +17,14 @@
 
 ## 👥 Integrantes do Grupo
 
-| Nome do Aluno | GitHub / Perfil |
+| Poliana da Silva  | [@eupoliana](https://github.com/eupoliana) |
 | :--- | :--- |
-| Poliana da Silva Benedito | [@usuario1](https://github.com/eupoliana) |
-| Nome Aluno 2 | [@usuario2](https://github.com/c-rafaela) |
-| Nome Aluno 3 | [@usuario3](https://github.com/usuario3) |
-| Nome Aluno 4 | [@usuario4](https://github.com/usuario4) |
+| Yara Torres | [@orresyara](https://github.com/torresyara)  |
+| Rafaela Cavalheiro| [@c-rafaela](https://github.com/c-rafaela) |
+| Geovanna Ciriaco | [@geovannaciriaco17-cell](https://github.com/geovannaciriaco17-cell) |
+| Giula Gentil  | [@giuliagentil](https://github.com/giuliagentil) |
+| Isabela | [@usuario](https://github.com/) |
+
 
 ---
 
